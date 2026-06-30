@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5i0042/YP-C/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 化書新聲序孔子曰知變化之道者其知神之所爲乎夫物胡以變而又胡以化皆誠之爲也誠自神神自化唯天下至誠爲能化惟誠通虛實貫有無誠於虛虛則自無情而之有情矣誠於實實則自有情而之無情矣有情無情者類皆能化而况人爲萬物之靈戴天履地豈獨滯於形骸之末而不能化乎哉若莊生之夢蝴蝶望帝之托杜鵑此其大覩矣果能由誠以知神由神以知化則出有入無升沉自我能使水不濡火不𤍠虎可馴龍可豢將不得爲飛仙以遨遊乎故曰一誠立而天地之道備是矣予亦曰一誠立而神仙之術備是矣譚子作化書王君作化書新聲譚肇其始王衍其流譚君知化王君翼化二君其先後一轍者夫吳之鵬序
+  hash: sha256:a832680b515a14a879b20565c5aad09d5f54ce05ed7a49606bd3d68b9fa1e3a3
+  markers:
+  - {type: page-break, offset: 0, content: '', id: YP-C_KR5i0042_12weiji-05-0001a}
+metadata:
+  title: 化書
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+  date: '2015-08-29 17:52:30.193062'
+  source:
+    repository: kanripo
+    path: KR5i0042/KR5i0042_001.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:ed22514ae208d1fe8d0ddb7362e13794be5c7aca0b39f1c828636c12a8e8bdb1

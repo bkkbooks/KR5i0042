@@ -1,0 +1,61 @@
+canonical_identifier: bkk:krp/KR5i0042/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5i0042/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 化書
+  date: '2015-08-29 17:52:30.193062'
+  source:
+    repository: kanripo
+    path: KR5i0042
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 1, filename: KR5i0042_001-YP-C.yaml, hash: 'sha256:ed22514ae208d1fe8d0ddb7362e13794be5c7aca0b39f1c828636c12a8e8bdb1'}
+  - {seq: 2, filename: KR5i0042_002-YP-C.yaml, hash: 'sha256:b9dae7b2150ce9cb52a2a868f95a56c4917f8daf13333072b2461dfc20ae1c38'}
+  - {seq: 3, filename: KR5i0042_003-YP-C.yaml, hash: 'sha256:87482e6a8c7d16690d8c8c009914c6d4bbd61ba8cd625df9835afca259456790'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5i0042_001-YP-C.markers.yaml, hash: 'sha256:94a2ef784c8551536ebcedc2aee863e0efa95a657642665ee850a4723ada97a8'}
+  - {seq: 2, role: markers, filename: assets/KR5i0042_002-YP-C.markers.yaml, hash: 'sha256:9ea24ab8e5b79342f4f345704c7f57cee0fb7c379135ed060d6effdfa6ce3b9b'}
+  - {seq: 3, role: markers, filename: assets/KR5i0042_003-YP-C.markers.yaml, hash: 'sha256:1ddbe66f29972b29bcab2bd219338f93cae2ca974f92bf93422d07c278067648'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: YP-C_KR5i0042_12weiji-05-0001a
+    span:
+    - body
+    - 0
+    - 250
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: YP-C_KR5i0042_12weiji-05-0002a
+    span:
+    - body
+    - 0
+    - 744
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: YP-C_KR5i0042_12weiji-05-0004a
+    span:
+    - body
+    - 0
+    - 39933
+  label: juan 003
+  type: section
+  level: 1
+hash: sha256:ac6b488f6bae8baf2751e6b88ec61db24e767f3f543f4e55d194909f6b89ef49
